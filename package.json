@@ -4,7 +4,7 @@
   "description": "Test picture tag",
   "main": "index.html",
   "scripts": {
-    "deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d src"
   },
    "homepage": "https://EvgenyLeukhin.github.io/test-picture-tag",
     "repository": {
