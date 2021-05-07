@@ -1,0 +1,20 @@
+{
+  "name": "test-picture-tag",
+  "version": "1.0.0",
+  "description": "Test picture tag",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+   "homepage": "https://EvgenyLeukhin.github.io/test-picture-tag",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenyLeukhin/test-picture-tag.git"
+  },
+  "keywords": ["picture tag"],
+  "author": "Evgeny Leukhin",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
